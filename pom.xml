@@ -35,12 +35,6 @@
 		<jettyVersion>8.1.16.v20140903</jettyVersion>
 	</properties>
 
-	<dependencies>
-		<dependency>
-			<groupId>com.h2database</groupId>
-			<artifactId>h2</artifactId>
-		</dependency>
-	</dependencies>
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
